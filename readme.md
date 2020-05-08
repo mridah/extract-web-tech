@@ -1,7 +1,5 @@
 # extract-web-tech
 
-## Description
-
 Extract website platform information from a list of urls
 
 
